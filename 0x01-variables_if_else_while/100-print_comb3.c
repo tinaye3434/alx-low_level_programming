@@ -6,7 +6,7 @@
  */
 int main(void)
 {
-	int i,j;
+	int i, j;
 
 	for (i = 48; i <= 58; i++)
 	{
@@ -25,5 +25,5 @@ int main(void)
 		}
 	}
 	putchar('\n');
-	return(0);
+	return (0);
 }
