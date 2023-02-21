@@ -2,8 +2,8 @@
 
 /**
  * main - main entry for program
- * print_alphabet - prints alphabet in small caps
- * Return: 0 (Success)
+ *
+ * print_alphabet - Prints alphabet in small cap
  */
 void print_alphabet(void)
 {
@@ -14,5 +14,4 @@ void print_alphabet(void)
 		_putchar(ch);
 	}
 	_putchar('\n');
-	return;
 }
