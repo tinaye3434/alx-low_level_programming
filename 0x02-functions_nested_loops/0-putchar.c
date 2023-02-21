@@ -2,10 +2,11 @@
 
 /**
  * main - a program that prints _putchar
+ * _putchar - prints putchar
  * Return: Always 0 (Success)
  */
 int main(void)
 {
-	system("echo _putchar\n");
+	_putchar();
 	return (0);
 }
