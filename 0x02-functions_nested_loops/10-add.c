@@ -2,7 +2,9 @@
 
 /**
  * add - adds two integers
- *@a,b: integers to be added
+ *@a: integers to be added
+ *@b: integer to ba added
+ *
  * Return: returmns result
  */
 int add(int a, int b)
