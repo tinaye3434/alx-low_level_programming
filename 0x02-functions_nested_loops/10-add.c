@@ -2,12 +2,12 @@
 
 /**
  * add - adds two integers
- *@int: integers to be added
+ *@a,b: integers to be added
  * Return: returmns result
  */
 int add(int a, int b)
 {
-	int a, b, res;
+	int res;
 
 	res = a + b;
 	return (res);
