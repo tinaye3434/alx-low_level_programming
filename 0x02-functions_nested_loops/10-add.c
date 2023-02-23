@@ -5,7 +5,7 @@
  *@int: integers to be added
  * Return: returmns result
  */
-int add(int, int)
+int add(int a, int b)
 {
 	int a, b, res;
 
